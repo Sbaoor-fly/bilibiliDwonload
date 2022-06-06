@@ -1,0 +1,26 @@
+{
+  "name": "bilibilidwonload",
+  "version": "1.0.0",
+  "description": "get bilibili video download url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sbaoor-fly/bilibiliDwonload.git"
+  },
+  "keywords": [
+    "nilbridge",
+    "bilibili"
+  ],
+  "author": "Sbaoor",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sbaoor-fly/bilibiliDwonload/issues"
+  },
+  "homepage": "https://github.com/Sbaoor-fly/bilibiliDwonload#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
